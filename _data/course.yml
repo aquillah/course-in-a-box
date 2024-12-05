@@ -1,3 +1,7 @@
-title: Course-in-a-Box
-description: An open-source project for creating online courses, built by <a href="https://www.p2pu.org">P2PU</a>
-modules: ["setup", "content", "customize"]
+title: Bacterial Amplicon Sequencing 
+description: > This comprehensive online course is designed to equip you with the knowledge 
+and skills necessary to master the techniques of bacterial amplicon sequencing. 
+Whether you are a researcher, scientist, or student, this course will provide you 
+with a solid foundation in the theory and practical applications of this powerful tool.
+modules: > ["Introduction to Microbial Ecology", "Principles of Amplicon Sequencing", 
+"DNA Extraction and Library Preparation", "Sequencing technologies", "Bioinformatics Analysis"]
