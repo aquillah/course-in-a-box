@@ -4,14 +4,14 @@ published: true
 ---
 
 Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+* **[What is Bioinformatics](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
+* **[Introduction to Linux/Unix](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
+* **[RSV Genome Assembly](/modules/customize/favicon)** - Add some (optional) finishing touches
 
 <br> 
 
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
+#### Respiratory Virus Bioinformatics ❤️
+For your further reading, I have provided a list of resources:
 
 * [We Are AI](https://dataresponsibly.github.io/we-are-ai/) by Center for Responsible AI
 * [How to Talk about Race](https://how-to-talk-about-race.p2pu.org/) by Amrita Patel and Denise LaForce
