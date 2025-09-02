@@ -2,9 +2,10 @@
 layout: index
 published: true
 ---
+#### About this course
 
 Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[What is Bioinformatics](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
+* **[What is Bioinformatics](/modules/introduction/test)** - Get your instance of Course-in-a-Box up and running
 * **[Introduction to Linux/Unix](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
 * **[RSV Genome Assembly](/modules/customize/favicon)** - Add some (optional) finishing touches
 
